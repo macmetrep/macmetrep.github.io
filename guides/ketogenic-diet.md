@@ -1,4 +1,8 @@
-# Ketogenic Diet Guide
+---
+layout: guide
+title: Ketogenic Diet Guide
+permalink: /guides/ketogenic-diet.html
+---
 
 ## Overview
 A high-fat, low-carbohydrate diet that shifts your body into ketosis for metabolic benefits.
@@ -30,4 +34,4 @@ A high-fat, low-carbohydrate diet that shifts your body into ketosis for metabol
 - Increase salt intake
 - Stay hydrated
 - Prepare for keto flu
-- Consider supplementing electrolytes 
+- Consider supplementing electrolytes

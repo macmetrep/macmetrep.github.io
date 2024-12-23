@@ -1,0 +1,41 @@
+# Site settings
+title: MacMetrep
+email: 
+description: Coaching and Guides
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://macmetrep.github.io"
+github_username: macmetrep
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Minima theme settings
+minima:
+  date_format: "%b %-d, %Y"
+  social_links:
+    github: macmetrep
+
+# Collections
+collections:
+  guides:
+    output: true
+    permalink: /guides/:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: "guides"
+      type: "pages"
+    values:
+      layout: "page"
+
+# Exclude from processing
+exclude:
+  - .git/
+  - .github/
+  - Gemfile
+  - Gemfile.lock
+  - README.md

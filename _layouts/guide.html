@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }}</title>
+    <style>
+        /* Reset */
+        body,
+        html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+        }
+
+        /* Container */
+        .guide-container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem 1rem;
+            min-height: 100vh;
+        }
+
+        /* Header */
+        .guide-header {
+            margin-bottom: 2rem;
+        }
+
+        .guide-header h1 {
+            font-size: clamp(1.8rem, 5vw, 2.5rem);
+            margin-bottom: 1rem;
+        }
+
+        /* Content */
+        .guide-content {
+            line-height: 1.6;
+            font-size: clamp(1rem, 2.5vw, 1.1rem);
+        }
+
+        .guide-content h2 {
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            font-size: clamp(1.4rem, 4vw, 1.8rem);
+        }
+
+        .guide-content h3 {
+            margin-top: 1.5rem;
+            margin-bottom: 0.75rem;
+            font-size: clamp(1.2rem, 3.5vw, 1.4rem);
+        }
+
+        .guide-content ul,
+        .guide-content ol {
+            margin-left: 1.5rem;
+            margin-bottom: 1.5rem;
+            padding-left: 0;
+        }
+
+        .guide-content li {
+            margin-bottom: 0.5rem;
+        }
+
+        .guide-content p {
+            margin-bottom: 1rem;
+        }
+
+        /* Light mode colors */
+        :root {
+            --bg-color: #ffffff;
+            --text-color: #444444;
+            --heading-color: #333333;
+            --link-color: #0066cc;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        }
+
+        h1,
+        h2,
+        h3 {
+            color: var(--heading-color);
+        }
+
+        a {
+            color: var(--link-color);
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* Dark mode colors */
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --bg-color: #1a1a1a;
+                --text-color: #e0e0e0;
+                --heading-color: #ffffff;
+                --link-color: #66b3ff;
+            }
+        }
+
+        /* Mobile optimizations */
+        @media (max-width: 768px) {
+            .guide-container {
+                padding: 1rem;
+            }
+
+            .guide-content ul,
+            .guide-content ol {
+                margin-left: 1rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="guide-container">
+        <article class="guide">
+            <header class="guide-header">
+                <h1>{{ page.title }}</h1>
+            </header>
+
+            <div class="guide-content">
+                {{ content }}
+            </div>
+        </article>
+    </div>
+</body>
+
+</html>

@@ -1,4 +1,8 @@
-# Liver Health Detox Program Guide
+---
+layout: guide
+title: Liver Support Protocol
+permalink: /guides/liver-support-protocol.html
+---
 
 ## Overview
 A specialized protocol designed to support and improve liver health alongside your weight loss journey.
@@ -37,4 +41,4 @@ A specialized protocol designed to support and improve liver health alongside yo
 - Adequate sleep
 - Stress management
 - Dry brushing
-- Infrared sauna (if available) 
+- Infrared sauna (if available)

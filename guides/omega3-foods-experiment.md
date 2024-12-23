@@ -1,4 +1,8 @@
-# Omega-3 Foods Experiment Guide
+---
+layout: guide
+title: Omega-3 Foods Experiment
+permalink: /guides/omega3-foods-experiment.html
+---
 
 ## Overview
 A 4-day protocol to test your body's response to increased omega-3 rich fish consumption and address potential omega-3 deficiencies.
@@ -40,4 +44,4 @@ A 4-day protocol to test your body's response to increased omega-3 rich fish con
 - Vary preparation methods
 - Consider frozen options
 - Balance with vegetables
-- Avoid deep frying 
+- Avoid deep frying

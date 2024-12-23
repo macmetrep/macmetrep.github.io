@@ -1,4 +1,8 @@
-# Carbohydrate-Based Diet Guide
+---
+layout: guide
+title: Carbohydrate Based Diet
+permalink: /guides/carbohydrate-based-diet.html
+---
 
 ## Overview
 A carbohydrate-based diet focused on supporting healthy weight loss through balanced carbohydrate intake.
@@ -31,4 +35,4 @@ A carbohydrate-based diet focused on supporting healthy weight loss through bala
 - Choose whole grains over refined grains
 - Include protein with each meal
 - Stay hydrated
-- Monitor portion sizes 
+- Monitor portion sizes

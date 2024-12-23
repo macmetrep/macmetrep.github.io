@@ -1,4 +1,8 @@
-# Bone Broth Experiment Guide
+---
+layout: guide
+title: Bone Broth Experiment
+permalink: /guides/bone-broth-experiment.html
+---
 
 ## Overview
 A 4-day protocol to test your body's response to bone broth consumption and assess potential glycine needs.
@@ -37,4 +41,4 @@ A 4-day protocol to test your body's response to bone broth consumption and asse
 - Store properly
 - Consider adding herbs
 - Use slow cooker/pressure cooker
-- Source quality bones 
+- Source quality bones

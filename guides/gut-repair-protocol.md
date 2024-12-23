@@ -1,4 +1,8 @@
-# Gut Repair Protocol Guide
+---
+layout: guide
+title: Gut Repair Protocol
+permalink: /guides/gut-repair-protocol.html
+---
 
 ## Overview
 A specialized dietary approach focused on healing and supporting optimal gut function while promoting healthy weight management.
@@ -41,4 +45,4 @@ A specialized dietary approach focused on healing and supporting optimal gut fun
 - Stress management
 - Adequate sleep
 - Gentle exercise
-- Proper meal timing 
+- Proper meal timing

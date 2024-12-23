@@ -1,4 +1,8 @@
-# Mineral Rich Foods Experiment Guide
+---
+layout: guide
+title: Mineral Rich Foods Experiment
+permalink: /guides/mineral-rich-foods-experiment.html
+---
 
 ## Overview
 A 4-day protocol focusing on mineral-dense foods, particularly oysters, to address potential mineral deficiencies.
@@ -36,4 +40,4 @@ A 4-day protocol focusing on mineral-dense foods, particularly oysters, to addre
 - Source fresh seafood
 - Consider frozen options
 - Prepare backup mineral-rich foods
-- Keep detailed notes 
+- Keep detailed notes

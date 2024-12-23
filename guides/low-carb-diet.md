@@ -1,4 +1,8 @@
-# Low Carb Diet Guide
+---
+layout: guide
+title: Low Carb Diet
+permalink: /guides/low-carb-diet.html
+---
 
 ## Overview
 A diet focused on reducing carbohydrate intake while maintaining adequate protein and healthy fats for optimal weight management.
@@ -36,4 +40,4 @@ A diet focused on reducing carbohydrate intake while maintaining adequate protei
 - Stay hydrated
 - Include electrolytes
 - Plan meals ahead
-- Watch for hidden carbs 
+- Watch for hidden carbs

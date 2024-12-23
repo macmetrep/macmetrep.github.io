@@ -1,4 +1,8 @@
-# High Protein & Fiber Diet Guide
+---
+layout: guide
+title: High Protein Fiber Diet
+permalink: /guides/high-protein-fiber-diet.html
+---
 
 ## Overview
 A diet focused on protein and fiber-rich foods to improve satiety and support sustainable weight loss.
@@ -36,4 +40,4 @@ A diet focused on protein and fiber-rich foods to improve satiety and support su
 - Start slowly with fiber increase
 - Drink plenty of water
 - Time protein intake around workouts
-- Consider a food diary 
+- Consider a food diary

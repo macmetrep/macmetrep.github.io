@@ -1,4 +1,8 @@
-# High Starch Diet Guide
+---
+layout: guide
+title: High Starch Diet
+permalink: /guides/high-starch-diet.html
+---
 
 ## Overview
 A diet rich in complex carbohydrates designed to support energy needs and metabolic health.
@@ -34,4 +38,4 @@ A diet rich in complex carbohydrates designed to support energy needs and metabo
 - Time starches around activity
 - Choose whole grain versions
 - Include fiber-rich foods
-- Stay hydrated 
+- Stay hydrated

@@ -1,4 +1,8 @@
-# Athletic High Starch Diet Guide
+---
+layout: guide
+title: Athletic High Starch Diet
+permalink: /guides/athletic-high-starch-diet.html
+---
 
 ## Overview
 An energy-optimized diet for active individuals, providing adequate fuel for workouts and recovery.
@@ -35,4 +39,4 @@ An energy-optimized diet for active individuals, providing adequate fuel for wor
 - Carb loading for events
 - Recovery nutrition
 - Hydration strategy
-- Supplement considerations 
+- Supplement considerations

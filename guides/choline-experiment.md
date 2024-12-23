@@ -1,4 +1,8 @@
-# Choline Experiment Guide
+---
+layout: guide
+title: Choline Experiment
+permalink: /guides/choline-experiment.html
+---
 
 ## Overview
 A 4-day protocol to test your body's response to increased choline intake through egg yolk consumption.
@@ -34,4 +38,4 @@ A 4-day protocol to test your body's response to increased choline intake throug
 ## Safety Notes
 - Monitor cholesterol response if concerned
 - Stay hydrated
-- Balance with vegetables 
+- Balance with vegetables

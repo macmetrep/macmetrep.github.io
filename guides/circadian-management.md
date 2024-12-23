@@ -1,4 +1,8 @@
-# Circadian Stimulus Management Guide
+---
+layout: guide
+title: Circadian Management
+permalink: /guides/circadian-management.html
+---
 
 ## Overview
 A protocol focused on optimizing your daily light exposure and eating patterns to improve sleep quality and metabolic health.
@@ -33,4 +37,4 @@ A protocol focused on optimizing your daily light exposure and eating patterns t
 - Use smart lighting
 - Install blue light filters
 - Create dark sleeping environment
-- Maintain consistent schedule 
+- Maintain consistent schedule
