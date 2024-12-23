@@ -115,11 +115,37 @@
                 margin-left: 1rem;
             }
         }
+
+        /* Add new warning banner style */
+        .warning-banner {
+            background-color: #fff3cd;
+            color: #856404;
+            padding: 1rem;
+            margin-bottom: 2rem;
+            border-radius: 4px;
+            text-align: center;
+            font-weight: bold;
+        }
+
+        /* Dark mode adjustment for warning banner */
+        @media (prefers-color-scheme: dark) {
+            :root {
+                /* ... existing dark mode variables ... */
+            }
+
+            .warning-banner {
+                background-color: #2c2500;
+                color: #ffe484;
+            }
+        }
     </style>
 </head>
 
 <body>
     <div class="guide-container">
+        <div class="warning-banner">
+            These guides are fake AI generated filler ones, don't take them seriously! The real ones are coming!
+        </div>
         <article class="guide">
             <header class="guide-header">
                 <h1>{{ page.title }}</h1>
