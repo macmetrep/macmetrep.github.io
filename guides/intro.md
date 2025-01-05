@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: Introduction
+title: Patchwork Intro
 permalink: /guides/intro.html
 ---
 

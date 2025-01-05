@@ -4,38 +4,12 @@ title: High Starch Diet
 permalink: /guides/high-starch-diet.html
 ---
 
-## Overview
-A diet rich in complex carbohydrates designed to support energy needs and metabolic health.
+## Experiment Rationale
 
-## Key Principles
-- Focus on complex, starchy carbohydrates
-- Moderate protein intake
-- Lower fat intake
-- Regular meal timing
+One core principle of the Patchwork System is matching your diet to what works best for your body.  One major part of this is which foods do you extract the most energy from in a usable form for the rest of your body.  Based on your current answers, we have determined that your body most likely works best with starch as a primary source of energy in it's current state.
 
-## Recommended Foods
-### Primary Starch Sources
-- Sweet potatoes
-- White potatoes
-- Brown rice
-- Quinoa
-- Oats
-- Corn
-- Winter squash
+You have also said you want something that is a bit more flexible and fits with your lifestyle, so we have created this diet for you to help you achieve your goals in the way you want.  If you want to get results more quickly or if your are not sure this is working properly, you can try the [Potato Diet Experiment](potato-experiment.hml) instead or later on.
 
-### Supporting Foods
-- Lean proteins
-- Vegetables
-- Fruits
-- Legumes
+## TODO COMPLETE
 
-## Meal Structure
-- 55-65% calories from carbs
-- 15-20% from protein
-- 20-30% from fats
-
-## Best Practices
-- Time starches around activity
-- Choose whole grain versions
-- Include fiber-rich foods
-- Stay hydrated
+Fill it out, mostly a combo of starch solution and mostly potato?
