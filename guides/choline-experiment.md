@@ -35,11 +35,16 @@ You can eat the eggs in whatever fashion you want, but we typically find it's ea
 - 3 eggs with dinner
 
 ## Tracking Points
-- Energy levels: How much time during the past 4 days did you have a lot of energy? (1 - All of the time), (2 - Most of the time), (3 - Some of the time),  (4 - A little of the time), (5 - None of the time)
-- Mental focus: How much time during the past 4 days did you have a trouble concentrating or focussing? (1 - All of the time), (2 - Most of the time), (3 - Some of the time),  (4 - A little of the time), (5 - None of the time)
-- Physical performance: How much time during the past 4 days did you feel sluggish or drained? (1 - All of the time), (2 - Most of the time), (3 - Some of the time),  (4 - A little of the time), (5 - None of the time)
-- Sleep quality: How much time during the past 4 days did you feel refreshed upon waking? (1 - All of the time), (2 - Most of the time), (3 - Some of the time),  (4 - A little of the time), (5 - None of the time)
-- Digestive response: How many times during the past 4 days did you feel like your bowel movements were easy, healthy and peaceful? (1 - All of the time), (2 - Most of the time), (3 - Some of the time),  (4 - A little of the time), (5 - None of the time)
+- Energy levels: How much time during the past 4 days did you have a lot of energy?
+  (1 - All of the time), (2 - Most of the time), (3 - Some of the time),  (4 - A little of the time), (5 - None of the time)
+- Mental focus: How much time during the past 4 days did you have a trouble concentrating or focussing?
+  (1 - All of the time), (2 - Most of the time), (3 - Some of the time),  (4 - A little of the time), (5 - None of the time)
+- Physical performance: How much time during the past 4 days did you feel sluggish or drained?
+  (1 - All of the time), (2 - Most of the time), (3 - Some of the time),  (4 - A little of the time), (5 - None of the time)
+- Sleep quality: How much time during the past 4 days did you feel refreshed upon waking?
+  (1 - All of the time), (2 - Most of the time), (3 - Some of the time),  (4 - A little of the time), (5 - None of the time)
+- Digestive response: How many times during the past 4 days did you feel like your bowel movements were easy, healthy and peaceful?
+  (1 - All of the time), (2 - Most of the time), (3 - Some of the time),  (4 - A little of the time), (5 - None of the time)
 
 ## Safety Notes
 - The immediate response to saying "eat 9 eggs a day" is usually, "what about cholesterol?". There are three things to note here:
