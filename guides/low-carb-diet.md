@@ -79,7 +79,7 @@ This usually also shows up that carbohydrates dysregulate someone's blood sugar 
    
 - Protein: 1.2-1.6g/kg body weight
 
-  Try to hit a protein intake (1.6-2.2g per kg or 0.5g-0.7g per lb of body weight) every day. You are not going to waste away at this level, patchwork has articles on this. For many, this actually might be even more protein than you're used to eating. And trust us, you will get used to it. 
+  Try to hit a protein intake (1.2-1.6g per kg or 0.5g-0.7g per lb of body weight) every day. You are not going to waste away at this level, patchwork has articles on this. For many, this actually might be even more protein than you're used to eating. And trust us, you will get used to it. 
   
 - Fat: Remainder of calories
 
