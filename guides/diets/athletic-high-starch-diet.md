@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: Athletic High Starch Diet
-permalink: /guides/athletic-high-starch-diet.html
+permalink: /guides/diets/athletic-high-starch-diet.html
 ---
 
 ## Overview

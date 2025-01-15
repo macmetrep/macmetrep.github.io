@@ -1,8 +1,10 @@
 ---
 layout: guide
 title: Mostly Potato Diet
-permalink: /guides/mostly-potato-diet.html
+permalink: /guides/diets/mostly-potato-diet.html
 ---
+
+If you're here, you've probably already done the [Potato Experiment](../experiments/potato-experiment.html) and you're ready to move on to the next step, or found the potato experiment too much and just want to do this gentler version.
 
 Congrats, we have figured out your macronutrient of choice!  Now we can expand the diet further to make sure you get enough micronutrients in the long term as you lose weight using starch.  We basically want to add foods to make the diet balanced, while keeping as much of your calories coming from potatoes.    
 
@@ -21,5 +23,5 @@ If you want help doing this, please feel free to contact us!
 
 ## Food Prep Guides
 
-* See [Poaching Eggs in the Microwave](poaching-eggs.html) for good way to cook eggs with minimal work and maximum taste.
-* See our [Potato Prep Guide](peeling-potatoes.html) on how to make a lot of tasty potatoes quickly.
+* See [Poaching Eggs in the Microwave](../instructions/poaching-eggs.html) for good way to cook eggs with minimal work and maximum taste.
+* See our [Potato Prep Guide](../instructions/peeling-potatoes.html) on how to make a lot of tasty potatoes quickly.

@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: High Protein Fiber Diet
-permalink: /guides/high-protein-fiber-diet.html
+permalink: /guides/diets/high-protein-fiber-diet.html
 ---
 
 ## Overview

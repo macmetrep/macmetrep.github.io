@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: Ketogenic Diet Guide
-permalink: /guides/ketogenic-diet.html
+permalink: /guides/diets/ketogenic-diet.html
 ---
 
 ## Overview

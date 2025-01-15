@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: Neurodiversity Testing
-permalink: /guides/experiments/neurodiversity-testing.html
+permalink: /guides/testing/neurodiversity-testing.html
 ---
 
 We see hints of potential neurodiversity or sensory sensitivity in your question results.  We suggest getting tested for potential neurodiveristy or sensory sensitivities.  People with undiagnosed neurodiversity conditions can often get exausted with living day to day, causing increased demands for food to help them process the increased mental demands and stress on their minds, which can often cause have a difficult time with losing weight.  By learning about their neurodiveristy, they can often decrease this mental stress or get treatments that help them and often end up having a easier time losing weight and increased energy levels. 

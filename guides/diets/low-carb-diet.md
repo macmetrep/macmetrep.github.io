@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: Low Carb Diet
-permalink: /guides/low-carb-diet.html
+permalink: /guides/diets/low-carb-diet.html
 ---
 
 ## Overview

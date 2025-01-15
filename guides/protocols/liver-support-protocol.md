@@ -66,7 +66,7 @@ Most people should be able to go through this process without supplementing anyt
 - Glutathione support
 - Soluble fiber (Psyllium Husk or Glucomannan)
 - DHM (only if you have to drink or eat fried foods)
-- [Supplemental choline](https://macmetrep.github.io/guides/experiments/choline-experiment.html)
+- [Supplemental choline](../experiments/choline-experiment.html)
 
 ## Lifestyle Support
 - Exercise that makes you sweat

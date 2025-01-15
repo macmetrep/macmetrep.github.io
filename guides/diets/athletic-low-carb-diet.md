@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: Athletic Low Carb Diet
-permalink: /guides/athletic-low-carb-diet.html
+permalink: /guides/diets/athletic-low-carb-diet.html
 ---
 
 ## Overview
