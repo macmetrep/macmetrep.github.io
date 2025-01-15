@@ -4,39 +4,12 @@ title: Athletic High Starch Diet
 permalink: /guides/diets/athletic-high-starch-diet.html
 ---
 
-## Overview
-An energy-optimized diet for active individuals, providing adequate fuel for workouts and recovery.
+This diet is the [High Starch Diet](../diets/high-starch-diet.html) with a few modifications.  Please read it first and then come back here.
 
-## Key Principles
-- Higher carbohydrate intake
-- Moderate protein for recovery
-- Strategic meal timing
-- Performance-focused nutrition
+Essentially, as someone who is more fit or active, you want to expand the amount of protein you consume.  This is because as people become more lean, they actually require more protein to prevent their bodies from breaking down muscle tissue as they lose weight, unlike more overweight people who preserve their muscle tissue quite well as they lose fat even when they are not eating a lot of protein.
 
-## Nutrition Timing
-### Pre-Workout
-- Easily digestible carbs
-- Light protein
-- Low fat
-- 2-3 hours before exercise
+Some others work out a lot even if they are overweight, and thus need more protein to help repair their muscles from their workouts.  Since they are working out and are creating a higher demand for protein, they still somewhat create the low protein environment that make these diets work even with their higher protein intake.
 
-### During Workout
-- Quick-acting carbs for sessions >60 min
-- Electrolytes
-- Hydration
+If you are strength training, then you want to hit a target of 0.7g/lbs of body weight for protein.  If you are only endurance training, then you want to hit a target of 0.5g/lbs of body weight.  Use lean protein sources like chicken, turkey, fish, and egg whites.   If you eat seafood, try only eating cod, salmon, herring, anchovies, shrimp, scallops, oysters, clams, and sardines.
 
-### Post-Workout
-- Fast-absorbing carbs
-- Quality protein
-- 30-minute window
-
-## Daily Macros
-- Carbs: 6-10g/kg body weight
-- Protein: 1.6-2.2g/kg body weight
-- Fat: 20-30% of calories
-
-## Performance Tips
-- Carb loading for events
-- Recovery nutrition
-- Hydration strategy
-- Supplement considerations
+Basically make sure you hit your protein target, make sure you hit your micronutrients with other foods and fill the rest with starchy carbs and vegetables.
