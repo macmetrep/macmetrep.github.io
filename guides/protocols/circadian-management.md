@@ -50,7 +50,7 @@ It's hard to beat the sun, and it's free.  If you can be outdoors more in genera
 
 ## Risky experiments
 
-These experiments are just ideas, and are put here for entertainment purposes.  They have risks and could be harmful to your health or injure you.
+**⚠️ WARNING:** These experiments are just ideas, and are put here for entertainment purposes.  They have risks and could be harmful to your health or injure you.
 
 ### Add a blacklight to your working room
 
