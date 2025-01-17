@@ -5,7 +5,7 @@ permalink: /guides/experiments/choline-experiment.html
 ---
 
 ## Overview
-A 4-day protocol to test your body's response to increased choline intake through egg yolk consumption.
+A 4-day experiment to test your body's response to increased choline intake through egg yolk consumption.
 
 Ideally, we would have looked at your DNA and told you exactly what your daily choline requirement is, but we can use this experiment as a binary test to see whether you're getting enough to feel optimal. 
 
